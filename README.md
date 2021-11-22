@@ -1,3 +1,2 @@
 # PrimeiroRepositorio
-Criação do meu primeiro repositório.
-print("Hello, world!")
+Criação do meu primeiro 
